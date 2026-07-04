@@ -37,15 +37,9 @@ Recipe Journal is a simple multi-page recipe website built using **HTML only**. 
 
 ```
 recipe_journal/
-│── index.html
-│── pancakes.html
-│── white_sauce_pasta.html
-│── margherita_pizza.html
-│── ramen.html
-│── chocolate_cake.html
-│── chocolate_chip_cookies.html
-│── lassi.html
-│── images
+├── index.html
+├── *.html (recipe pages)
+├── *.png / *.jpg / *.webp (images & favicon)
 └── README.md
 ```
 
